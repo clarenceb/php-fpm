@@ -22,4 +22,4 @@ services:
     restart: always
     volumes:
       - .:/srv/www/app
-      # - ./docker/php/www.conf:/usr/local/etc/php-fpm.d/www.conf
+
